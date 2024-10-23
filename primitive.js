@@ -18,14 +18,24 @@ console.log(num1);//8
 
 //boolean
 var nums = 5<4;
-console.log(nums);//false
+console.log(nums);//falseç
 
 var number = 6>5;
 console.log(number);//true
 
-//null
+//hooson-empty yuch garahgui consold
+var name =' ';
+console.log(name);
 
+var num= 0;
+console.log(num);//0
 
+//null 
+var newName = null;
+console.log(newName);//null
 
-//undefined
+//undefined 
+var newerName; 
+console.log(newerName);//undefined1
+   
 
